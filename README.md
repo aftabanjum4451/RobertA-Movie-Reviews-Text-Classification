@@ -2,6 +2,7 @@
 This is a mini project, in which i designed the ROBERTA model with pytorch for sentiment analysis and the dataset I used is IMDb-Movie-Review. The data contain raw text and its sentiment. 
 ## ROBERTA 
 A robustly optimized method for pretraining natural language processing (NLP) systems that improves on Bidirectional Encoder Representations from Transformers, or BERT, the self-supervised method released by Google in 2018. BERT is a revolutionary technique that achieved state-of-the-art results on a range of NLP tasks while relying on unannotated text drawn from the web, as opposed to a language corpus that’s been labeled specifically for a given task.
+![](images/01.png)
 
 ## Dataset
 (https://www.cs.cornell.edu/people/pabo/movie-review-data/)
