@@ -28,6 +28,7 @@ A robustly optimized method for pretraining natural language processing (NLP) sy
 - Dataloader
 - Model Creation
 - Model Training
+- Loss Function and Optimizer
 - Save Model
 - Model validation
 
